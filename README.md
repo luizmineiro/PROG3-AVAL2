@@ -5,7 +5,7 @@
 * Richelle Kim Mota Bahia
 * Celenny Cristhyne do Nascimento Sousa
 
-<h2 align="center">Configurações </h2>
+<h2 align="center">Configurações ⚙️</h2>
 
    ```
    - Instale as dependências:
